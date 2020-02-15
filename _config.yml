@@ -12,12 +12,12 @@ website: thedivadanielle.github.com
 twitter_username: TheDivaDanielle
 github_username: TheDivaDanielle
 # dribbble_username: jekyll
-# facebook_username: jekyll
+facebook_username: webjediwife
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+instagram_username: thedivadanielle
+linkedin_username: danielle-koran
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
@@ -33,6 +33,8 @@ about_content: | # this will include new lines to allow paragraphs
 
 # Experience Section
 # experience_title: Experience
+# experience_content: |
+
 
 # Education Section
 # educaton_title: Education
