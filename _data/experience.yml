@@ -1,9 +1,64 @@
 - layout: left
-  company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
-  quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-  description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+  company: DNK TuneWorks, LLC
+  link: dnktuneworks.com
+  dates: 2019 - Current
+#    quote: >
+  job_title: Founder/CEO
+  description: |
+    Business owner of a solution provider of bespoke engine calibrations as well as maintenance and repair of Triumph motorcycles and other European brands. Initial brand marketing, outreach, and community engagement across social media and global sales partnerships.
+
+- layout: left
+  company: Knowland, LLC
+  link: www.knowland.com
+  dates: 2018 - 2019
+  job_title: IT Operations Manager
+  description: |
+    Department lead overseeing day-to-day operations of a CS and dev-centric environment. Managed service desk, asset management, network and telecommunications, and platform maintenance activities. Maintained an active budget and procurement planning, strategy and execution. Supported an Agile, DevSecOps cloud-centric CI/CD operations environment. Functionally served as department scrum/project manager and supervised the Help Desk team.
+
+- layout: left
+  company: Mountune USA
+  link: www.mountuneusa.com
+  dates: 2016 -2018
+  job_title: Freelance Consultant
+  description: |
+    Served as US liaison for tuning/calibration validation testing for the Mk3 Ford Focus RS platform. Additionally, I was a marketing consultant for the motorsport industry. Wrote and monitored related content and coordinated responses from vendors to user queries, including awareness of issues, product test results, installation and configuration questions. Worked with distributors and retailers to develop sponsorships, group buys, and promotions across multiple platforms.
+
+- layout: left
+  company: The World Bank Group (via IronBow Technologies)
+  link: worldbank.org
+  dates: 2013 – 2015
+  job_title: Senior IP Telephony Engineer
+  description: |
+    Responsible for the maintenance of IP Telephony hardware for multiple facilities for organizations within the World Bank Group.. Performed large-scale installation of IP Telephony hardware and peripherals. Provided on-site and remote troubleshooting for phone system issues for World Bank Group staff. Maintained continuous staging for long-term and short-term projects.
+
+- layout: left
+  company: FrontPoint Security Solutions, LLC
+  link: www.frontpointsecurity.com
+  dates: 2011 - 2012
+  job_title: IT  & HelpDesk Administrator
+  description: |
+    Chartered the Help Desk management role for the IT Department, generating weekly updates on all hardware, consumables and software licensing. Sole maintainer of all unified directory information relating to employees in all email, phone and system directories. Created and maintained internal and external database information for SQL Server Reporting Services. Provided 24/7 break/fix and debugging support. Oversaw new hire on-boarding; from the user provisioning, acquisition, build, and deployment.
+
+- layout: left
+  company: Time Warner Cable
+  link: www.spectrum.com
+  dates: 2009 - 2011
+  job_title: Tier II Technical Support and Sales Agent
+  description: |
+    Handled support for customer account management. Provided support for technical issues for wireless and wired networking, VoIP, and Switched Digital Cable services. Mentored team members on processes and procedures. Acted as an overflow telesales representative during high traffic times due to having a successful sales record.
+
+- layout: left
+  company: Ethostream, LLC
+  link: allbridge.com
+  dates: 2006 - 2009
+  job_title: Technical Customer Support Agent and Trainer
+  description: |
+    Provided network administration and support, as well as remote network management and break/fix for customer hardware. Supported CPE and worked directly with hotel customers to resolve potential network problems or bandwidth deficiencies. Trained new employees and mentored team members on processes, procedures, and potential technical issues. Created and maintained internal repository databases.
+
+- layout: left
+  company: API Healthcare
+  link: www.apihealthcare.com
+  dates: 2002 - 2005
+  job_title: Electronics and RMA Technician
+  description: |
+    Performed component level analysis and repair on computers, printers, monitors and access control devices for over healthcare clinics and hospitals throughout the US.  Field tested and installed components on site for customers.  Assembled and bench tested in-house built touchscreen access control devices.

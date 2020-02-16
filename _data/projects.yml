@@ -1,8 +1,24 @@
+#- layout: top-middle
+#  name: Super awesome project
+#  link: github.com/sproogen
+#  github: sproogen/resume-theme
+#  quote: >
+#    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+#  description: | # this will include new lines to allow paragraphs
+#    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+
+# skills
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
-  quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-  description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+  name: Skills
+  description:  |
+    <mark>Operations</mark> - IT Infrastructure, Cloud Solutions and DevOps Management in an Agile Environment, System Administration and on-demand IT support and solution development<br>
+    <mark>Management & Leadership</mark> - Project Management, Strategy Development, Program Initiation and Tracking, Scrum Master, Establishment and Maintenance  of front-line customer and interdepartmental relations<br>
+    <mark>Information Security</mark> - Developed and Deployed End-User Training, Incident Response & Handling, Phishing Detection and Countermeasures, Led and Managed Compliance and Benchmarking Activities, Vulnerability Scanning and Assessment, Anti-Virus/Anti-Malware System Deployment & Management<br>
+    <mark>Policy</mark> - Information Security Guidelines, End User and Administration Documentation, Standard Operating Procedures, and Acceptable Use Policies<br>
+    <mark>Cloud & Infrastructure Technologies</mark> - AWS, Microsoft SCCM, Active Directory, Virtual Machine Image Development, Deployment and Management<br>
+    <mark>Data Management</mark> - Database Management and Administration, SQL Query Authoring, Report Generation<br>
+    <mark>Telecommunications</mark> - VoIP, Wireless, WAN/LAN architecture, configuration, management, and deployment<br>
+    <mark>Asset Management</mark> - acquisition, provisioning, and deployment for full lifecycle support including management  and tracking of physical and virtual inventories<br>
+    <mark>Budget & Finance</mark> - Planned and Maintained departmental budget, controlled and managed expenditures<br>
+    <mark>Help Desk</mark> - Team Management & Administration, Problem/Issue logging, triage and escalation, Documentation development and updating, Establishment of operating procedures<br>
+    <mark>Diagnostics & Troubleshooting</mark> - Electronics analysis, diagnostics and component-level repair (bench skills)<br>
